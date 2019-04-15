@@ -1,11 +1,3 @@
 {
-  "beautify.tabSize": 2,
-  "prettier.eslintIntegration": true,
-  "prettier.singleQuote": true,
-  "emmet.showSuggestionsAsSnippets": true,
-  "scss.lint.float": "warning",
-  "scss.lint.idSelector": "warning",
-  "scss.lint.important": "warning",
-  "scss.lint.boxModel": "warning",
-  "scss.lint.importStatement": "warning"
+  "beautify.tabSize": 2
 }
